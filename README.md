@@ -29,7 +29,8 @@
 <img align="center" alt= "html5" src= "https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white"/>
 </div> </br>
 
-
+# Veja meu portfólio pessoal!
+[Portfólio](https://github.com/LandGabriel/portf-land)
 
 ## Úlitmos projetos realizados
 💻 [Calculadora de Eritroblasto](https://landgabriel.github.io/Eritroblasto-Calculator/Eritroblasto.html)
