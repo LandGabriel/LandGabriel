@@ -12,7 +12,7 @@
 </div>
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabriel-vieira-617698293/)
-<a href = "mailto:landgabrielve@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+<a href = "mailto:landgabrielve@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a> <br>
 ![LandGabriel GitHub stats](https://github-readme-stats.vercel.app/api?username=LandGabriel&show_icons=true&theme=transparent)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=LandGabriel&size_weight=0.5&count_weight=0.5)
 
