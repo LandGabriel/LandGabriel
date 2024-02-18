@@ -47,6 +47,6 @@
 
 💻 [Calculadora de LDL - lipoproteína de baixa densidade](https://landgabriel.github.io/calculator-LDL/)
 
-💻 [Landing Page] (https://landgabriel.github.io/landing-page/)
+💻 [Landing Page](https://landgabriel.github.io/landing-page/)
 
 
