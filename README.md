@@ -5,7 +5,7 @@
 
   <div style="border-bottom: 2px solid #000;"></div>
 
-  ## Student Webdeveloper
+  ## Front End web developer Junior
 
   <div style="border-bottom: 2px solid #000;"></div>
 
