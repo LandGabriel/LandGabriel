@@ -49,6 +49,6 @@
 
 💻 [Landing Page](https://landgabriel.github.io/landing-page/)
 
-💻 [Landing Page](https://landgabriel.github.io/Task-List/)
+💻 [Task List](https://landgabriel.github.io/Task-List/)
 
 
