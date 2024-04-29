@@ -38,8 +38,6 @@
 
 💻 [Contador de células](https://landgabriel.github.io/ContCell/contador.html)
 
-💻 [Página de Login](https://landgabriel.github.io/LoginPag/login.html)
-
 💻 [Loja de anúncio de tênis](https://landgabriel.github.io/landshop/index.html)
 
 💻 [Formulário responsivo](https://landgabriel.github.io/responsive-form/index.html)
