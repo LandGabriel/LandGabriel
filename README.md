@@ -33,7 +33,7 @@
 [Portfólio](https://github.com/LandGabriel/portf-land)
 
 ## Úlitmos projetos realizados
-💻[Calculadora de Eritroblasto](https://landgabriel.github.io/Eritroblasto-Calculator/Eritroblasto.html{:target="_blank"})
+💻[Calculadora de Eritroblasto](https://landgabriel.github.io/Eritroblasto-Calculator/Eritroblasto.html)
 
 
 💻 [Contador de células](https://landgabriel.github.io/ContCell/contador.html)
