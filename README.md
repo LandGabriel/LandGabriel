@@ -1,4 +1,3 @@
-
 <div align="center">
 
   # Gabriel Land Vieira 🖐️
@@ -38,11 +37,6 @@
 
 💻 [Contador de células](https://landgabriel.github.io/ContCell/contador.html)
 
-💻 [Loja de anúncio de tênis](https://landgabriel.github.io/landshop/index.html)
-
-💻 [Formulário responsivo](https://landgabriel.github.io/responsive-form/index.html)
-
-💻 [WebSite de assinatura responsivo](https://landgabriel.github.io/website-responsive/)
 
 💻 [Calculadora de LDL - lipoproteína de baixa densidade](https://landgabriel.github.io/calculator-LDL/)
 
@@ -52,4 +46,6 @@
 
 💻 [Quiz App hematologia](https://quizhemato-q1qi0eubu-landgabriels-projects.vercel.app/)
 
+💻 [App de finanças](https://axios-finances.vercel.app/)
 
+💻 [Controle de qualidade](https://lab-quality.vercel.app/)
