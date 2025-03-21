@@ -11,7 +11,7 @@
 </div>
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabriel-vieira-617698293/)
-<a href = "mailto:landgabrielve@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a> <br>
+<a href = "mailto:landgabrielv@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a> <br>
 ![LandGabriel GitHub stats](https://github-readme-stats.vercel.app/api?username=LandGabriel&show_icons=true&theme=transparent)
 <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LandGabriel&layout=compact&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117" />
 </div>
@@ -56,7 +56,7 @@
 
 💻 [Task List](https://landgabriel.github.io/Task-List/)
 
-💻 [Quiz App hematologia](https://quizhemato-q1qi0eubu-landgabriels-projects.vercel.app/)
+💻 [Quiz App hematologia](https://quizhemato-git-main-landgabriels-projects.vercel.app/)
 
 💻 [App de finanças](https://axios-finances.vercel.app/)
 
