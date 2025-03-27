@@ -41,16 +41,13 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=footer"/>
 
 # Veja meu portfólio pessoal!
-[Portfólio](https://github.com/LandGabriel/portf-land)
+[Portfólio](https://react-portfolio-dev.vercel.app/)
 
 ## Úlitmos projetos realizados
 💻[Calculadora de Eritroblasto](https://landgabriel.github.io/Eritroblasto-Calculator/Eritroblasto.html)
 
 
 💻 [Contador de células](https://landgabriel.github.io/ContCell/contador.html)
-
-
-💻 [Calculadora de LDL - lipoproteína de baixa densidade](https://landgabriel.github.io/calculator-LDL/)
 
 💻 [Landing Page](https://landgabriel.github.io/landing-page/)
 
