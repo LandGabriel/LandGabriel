@@ -44,14 +44,10 @@
 [Portfólio](https://react-portfolio-dev.vercel.app/)
 
 ## Úlitmos projetos realizados
-💻[Calculadora de Eritroblasto](https://landgabriel.github.io/Eritroblasto-Calculator/Eritroblasto.html)
 
+💻 [Dashboard jurídico](https://dashboard-juridico-react.vercel.app/)
 
-💻 [Contador de células](https://landgabriel.github.io/ContCell/contador.html)
-
-💻 [Landing Page](https://landgabriel.github.io/landing-page/)
-
-💻 [Task List](https://landgabriel.github.io/Task-List/)
+💻 [Contador de células](https://contador-celulas-2-0.vercel.app/)
 
 💻 [Quiz App hematologia](https://quizhemato-git-main-landgabriels-projects.vercel.app/)
 
